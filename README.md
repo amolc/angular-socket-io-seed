@@ -84,3 +84,11 @@ illustrate using the seed.
 For more information on AngularJS please check out http://angularjs.org/
 For more on Express and Jade, http://expressjs.com/ and http://jade-lang.com/ are
 your friends.
+
+## Notes By Amol 
+
+We need to make changes from the jade engine to a simple angular engine
+
+Commit to test
+
+
